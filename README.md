@@ -121,7 +121,7 @@ space above/below/to the right of the shown black circle)
     * <your-launch-file>.launch
   * world
     * map.world
-## README file (.md or .txt)
++ README file (.md or .txt)
 
 ## How to run the code:
 ## Libraries / dependancies:
